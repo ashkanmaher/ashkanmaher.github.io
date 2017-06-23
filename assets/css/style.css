@@ -1,0 +1,138 @@
+.name {
+font-family: "Times";
+font-size: 28px;
+background-color: #4aaaa5;
+color: #ffffff;
+width: 230px;
+padding: 30px;
+margin: 25px;
+text-align: center;
+position: static;
+}
+
+header {
+	background: #ffffff;
+	border-color: #cccccc;
+}
+
+body {
+	background-color: #ffffff;
+	border-color: #dddddd;
+
+}
+ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	
+	float: right;
+	border-right: 1px solid #000000;
+	line-height: 1px;
+
+}
+
+#lastitem {
+
+	border-right: none;
+}
+
+li a{
+
+	display: block;
+	color: #777777;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: "arial";
+	font-weight: "bold";
+
+
+
+}
+
+header h1,header nav {
+	display: inline-block;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#about {
+
+	font-size: 28px;
+	color: #4aaaa5;
+	font-style: bold;
+	font-family: "sans-serif";
+	margin-bottom: 60px;
+}
+
+img#me {
+
+	height: 200px;
+	width: 200px;
+}
+
+p {
+	font-family: "arial";
+	color: #777777;
+	
+}
+
+#container {
+	margin-right: 60px;
+
+}
+
+.indent-1 {
+	
+	float: left;
+	margin-left: 20%;
+}
+
+.indent-1 section {
+	width: 30%;
+	float: left;
+	margin-left: 28px;
+	margin-right: 40px;
+	margin-bottom: 30px;
+
+}
+
+
+.row {
+	width: 100%;
+	text-align: center;
+
+}
+
+.block {
+width: 50px;
+display: inline-block;
+
+}
+footer {
+	width: 100%;
+	padding-top:60px;
+	padding: 60px;
+	margin-top: 575px;
+	text-align: center;
+	position: relative;
+	background-color: #666666;
+	padding-top: 50px;
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: "arial";
+	border-top: solid 5px;
+	border-top-color: #4aaaa5;
+}
+
+
+form {
+	padding-right: 20%;
+}
+
